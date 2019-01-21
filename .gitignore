@@ -5,3 +5,4 @@
 # But not these files...
 !pubg_stats.ipynb
 !.gitignore
+!README.md
