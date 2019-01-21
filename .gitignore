@@ -3,6 +3,5 @@
 *
 
 # But not these files...
-!pubg_season_stats.ipynb
-!pubg_match_stats.ipynb
+!pubg_stats.ipynb
 !.gitignore
